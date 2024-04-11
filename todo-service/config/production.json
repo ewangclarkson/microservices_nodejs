@@ -1,0 +1,12 @@
+{
+  "appName": "Todo Service Production",
+  "db": {
+    "host": "mongodb://localhost",
+    "port": "27017",
+    "dbName": "ecom_todo_service"
+  },
+  "rabbitMq": {
+    "host": "amqps://yycpeagx:HLDTuqPkCDdwNLQc0KQTQhQwXQfSMSe2@moose.rmq.cloudamqp.com/yycpeagx",
+    "queue": "PROJECT_QUEUE"
+  }
+}

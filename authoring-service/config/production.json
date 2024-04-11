@@ -1,0 +1,12 @@
+{
+  "appName": "Authoring Service Production",
+  "db": {
+    "host": "mongodb://localhost",
+    "port": "27017",
+    "dbName": "ecom_authoring_service"
+  },
+  "rabbitMq": {
+    "host": "amqps://yycpeagx:HLDTuqPkCDdwNLQc0KQTQhQwXQfSMSe2@moose.rmq.cloudamqp.com/yycpeagx",
+    "queue": "SHOPPING_QUEUE"
+  }
+}

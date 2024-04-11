@@ -1,0 +1,11 @@
+{
+  "db": {
+    "dbPassword": "db_password"
+  },
+  "bcrypt": {
+    "salt": "bcrypt_salt"
+  },
+  "jwt": {
+    "secret": "jwt_secret"
+  }
+}

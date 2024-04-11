@@ -1,0 +1,5 @@
+{"level":"error","message":"Unexpected string in JSON at position 90","service":"express_todo_app"}
+{"level":"error","message":"Configuration property \"jwt.secret\" is not defined","service":"express_todo_app"}
+{"level":"error","message":"Configuration property \"jwt.secret\" is not defined","service":"express_todo_app"}
+{"level":"error","message":"Configuration property \"jwt.secret\" is not defined","service":"Todo_service"}
+{"level":"error","message":"Configuration property \"jwt.secret\" is not defined","service":"Todo_service"}
